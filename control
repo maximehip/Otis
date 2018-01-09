@@ -1,0 +1,10 @@
+Package: com.maximehip.otis
+Name: Otis
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome framework of some sort!!
+Maintainer: maximehip
+Author: maximehip
+Section: System
+Tag: role::developer
